@@ -5,3 +5,5 @@
 爬蟲用的webdriver
 和申請google api)
 
+python 環境:
+requests re beautifulsoup urllib tqdm threading googleapiclient selenium google_auth_oauthlib
