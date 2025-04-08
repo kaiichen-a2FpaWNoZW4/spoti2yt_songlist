@@ -13,17 +13,17 @@ This is a small tool to convert spotify song list to youtube song list.
 
 ---
 
-1.  youtube playlist
+2.  youtube playlist
     - Create yt playlist
     - Import existing playlist (enter yt link)
 
 ---
 
-1.  Choose which song to start with
+3.  Choose which song to start with
 
 ---
 
-1.  Get song list
+4.  Get song list
 
 ## How to use
 
@@ -57,17 +57,17 @@ This is a small tool to convert spotify song list to youtube song list.
 
 ---
 
-1. youtube歌單
+2. youtube歌單
     - 創建yt歌單
     - 匯入已有歌單(輸入yt連結)
 
 ---
 
-1. 選擇從第幾首開始
+3. 選擇從第幾首開始
 
 ---
 
-1. 取得歌單
+4. 取得歌單
 
 ## 如何使用
 
